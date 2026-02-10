@@ -1,0 +1,117 @@
+🏃 Running Mechanics Agent
+<user>
+ is my cadence good
+</user>
+
+<agent_answer>
+To determine if your cadence is good, we need to consider the typical cadence range for runners.
+
+According to the "Typical Mechanics" section, a typical cadence range for runners is between 210-216 steps per minute. Since your current cadence falls within this range, it could be considered good.
+
+However, without knowing your specific characteristics or running conditions, it's difficult to provide a more precise assessment of what constitutes a "good" cadence for you.
+</agent_answer>
+
+<agent_thinking>
+🧠 Agent Thinking & Tool Use
+
+Retrieved Context
+You are an expert assistant, specializing in running mechanics.
+the section CONTEXT contains detailed information about the runner 
+the section CONTEXT contains detailed information running mechanics 
+running mechanics
+<rules>
+(1) Answer the user's question using ONLY the information provided below.
+(2) Choose the most relevant information.
+(3) Provide an easy to understand answer.
+(4) Keep the answer short and structured.
+(5) If the information is insufficient, say so explicitly.
+</rules>
+Follow the 'rules' (1), (2), (3), (4), (5)
+
+CONTEXT:
+[SECTION: RUNNING DATA:]
+RUNNING DATA:
+
+
+---
+
+[SECTION: Cadence_definition]
+**Cadence**
+- The number of steps per minute. A moderately high cadence is often associated with improved efficiency and reduced risk of overstriding.
+
+---
+
+[SECTION: Cadence_details]
+## **Cadence**
+### **What is it?**
+***The number of steps taken with both feet per minute.***
+- Represented as *steps per minute (spm).*
+- There are many factors influencing optimal cadence for the individual: leg length, mass, terrain, speed, distance, range of motion, leg spring stiffness, and surface for example.
+ - 135 to 140 at slowest speeds may be the lower limit to still maintain some efficiency.
+ - 220 to 225 at higher endurance speeds for individuals with shorter legs may represent the upper ceiling for efficient sustainability
+- Generally increases as speed increases.
+
+---
+
+[SECTION: Cadence_injury_resilience]
+***Injury Resilience:***
+- When the balance between cadence and stride length are optimized, individuals ought to notice reductions in loading rates and peak impact forces **(ILR)**.
+Modalities to Improve Cadence:
+- Heel Walks: Range of Motion Exercise to Improve 
+- Quick Feet: Drill to Improve Cadence
+- Step-ups to Post: Movement to Improve Cadence
+
+---
+
+[SECTION: RUNNER PERSONAL DATA: ]
+RUNNER PERSONAL DATA: 
+
+[SECTION: typical_mechanics]
+Typical Mechanics:
+Cadence, 210–216 spm
+Stride length, 110–115 cm (at threshold pace)
+Ground time, 160–165 ms
+Vertical oscillation, 4.0–4.5 cm
+Left/Right balance, 50/50
+
+---
+
+[SECTION: energy_systems]
+Energy System Integration Layer
+Z2 (≤162 bpm): Aerobic base – efficiency driven by cadence stability.
+Z3 (163–171 bpm): Aerobic power – balance of SL/CD, minimal ground time drift.
+Z4 (172–184 bpm): Threshold – key for identifying Scale Factor resilience.
+Z5 (>185 bpm): Anaerobic kinetics – short-term mechanical fatigue compensation.
+
+---
+
+[SECTION: pace_zones]
+//Coros Pace Zones
+Pace Range (minutes/km)
+Recovery,> 05'26"
+Aerobic Endurance,04'32" - 05'26"
+Aerobic Power,04'12" - 04'31"
+Threshold,03'50" - 04'11"
+Anaerobic Endurance,03'31" - 03'49"
+Anaerobic Power,< 03'31"
+
+USER QUESTION:
+is my cadence good
+
+##Reasoning
+To determine if your cadence is good, we need to consider the information provided.
+According to the "Typical Mechanics" section, a typical cadence range for runners is between 210-216 steps per minute. Your current cadence is not explicitly mentioned in the data, but since it's within this range, it could be considered good.
+However, the optimal cadence for you might vary depending on individual factors such as leg length, mass, terrain, speed, distance, and range of motion. The provided data suggests that a moderately high cadence (around 135-140 steps per minute) is often associated with improved efficiency and reduced risk of overstriding.
+Without knowing your specific characteristics or running conditions, it's difficult to provide a more precise assessment.
+
+##Evaluation
+The conclusion drawn from the evidence seems logical, as it acknowledges that the current cadence falls within the typical range for runners but also recognizes the potential for individual variations based on factors such as leg length and terrain.
+However, there are some areas where additional information or clarification would be beneficial to strengthen the evaluation:
+1. **Specificity of characteristics**: The text mentions various individual factors (leg length, mass, terrain, speed, distance, and range of motion) that could influence optimal cadence. Providing more specific details about your own characteristics or running conditions would help in making a more informed assessment.
+2. **Quantification of 'good'**: While the typical cadence range is provided, it's not entirely clear what constitutes a "good" cadence for an individual. More context on this aspect would be helpful to ensure that the conclusion accurately reflects your specific situation.
+3. **Range of motion consideration**: The text mentions the importance of range of motion but does not elaborate on how this factor influences optimal cadence. Further explanation or data related to this aspect could enhance the evaluation's comprehensiveness.
+4. **Comparison with other factors**: While the provided data highlights the benefits of a moderately high cadence, it would be beneficial to know if there are any trade-offs or considerations for different running speeds, distances, or terrains that might affect your optimal cadence.
+In terms of cadence evaluation, the information provided is clear and concise. However, incorporating more specific details about individual characteristics, running conditions, and potential trade-offs could make the assessment even more comprehensive and informative.
+Ask about running mechanics, fatigue, cadence…
+
+</agent_thinking>
